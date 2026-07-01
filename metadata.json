@@ -1,0 +1,6 @@
+{
+  "name": "Royalway Campaign Manager",
+  "description": "A dynamic field campaign management platform for Royalway Media with custom campaign builders, KPI target trackers, offline-first submissions, and multi-role dashboards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
