@@ -1,0 +1,22 @@
+{
+  "profiles": [
+    {
+      "id": "admin-id-123",
+      "email": "sempalacarlton@gmail.com",
+      "full_name": "Sempala Carlton",
+      "phone_number": "+256701123456",
+      "role": "admin",
+      "requested_role": "admin",
+      "status": "approved",
+      "region": "Central",
+      "created_at": "2026-06-01T08:00:00Z",
+      "password_hash": "a0dd91b96a256c83c56f408d86682c59445755e45293f9cb86111efb4d04f7065b858f0c9498071103fa19d4f85b56a410c0ad1a065c72f9903e2331f5f17ae0",
+      "password_salt": "7ff55d4ef5e001b59404c488c5055bf0"
+    }
+  ],
+  "campaigns": [],
+  "campaign_assignments": [],
+  "submissions": [],
+  "kpi_targets": [],
+  "audit_logs": []
+}
